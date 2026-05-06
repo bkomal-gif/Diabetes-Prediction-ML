@@ -151,7 +151,7 @@ Diabetes-Prediction-ML/
 ├── data/
 │   └── diabetes.csv                     # Pima Indians Diabetes Dataset
 │
-├── results/
+├── results/visualisations
 │   ├── Model_comparison.png             # Performance comparison chart
 │   ├── Roc_Curve.png                   # ROC curves for all models
 │   ├── Feature_importance.png           # XGBoost feature importance
