@@ -218,7 +218,12 @@ Capstone Project 1 by **Team 10**, Executive Programme for AI in Healthcare, IIT
  **Baby Komal** . Alfred Thomas · Heidrun Zeug · Kiran Kamble · Muneesh Kapoor · Nitika Jesingh · Saptarshi Paul Choudhury · Shivani Sheth · Shuvadeep Ganguly · Sumit Talwar
 
 ---
-
+ 
+## 📄 License
+ 
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+ 
+---
 ## 🙏 Acknowledgements
 
 - IIT Delhi Executive Programme for AI in Healthcare
