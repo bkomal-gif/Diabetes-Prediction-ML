@@ -152,9 +152,9 @@ Diabetes-Prediction-ML/
 │   └── diabetes.csv                     # Pima Indians Diabetes Dataset
 │
 ├── results/
-│   ├── Model comparison.png             # Performance comparison chart
-│   ├── Roc Curve.png                   # ROC curves for all models
-│   ├── Feature importance.png           # XGBoost feature importance
+│   ├── Model_comparison.png             # Performance comparison chart
+│   ├── Roc_Curve.png                   # ROC curves for all models
+│   ├── Feature_importance.png           # XGBoost feature importance
 │   └── confusion_matrix.png             # Best model confusion matrix
 │
 ├── requirements.txt
@@ -209,7 +209,7 @@ CURATED_FEATURES   = ['Insulin', 'Age', 'Glucose', 'BMI', 'BP', 'Pregnancies']
 
 | Model Comparison | ROC Curves | Feature Importance |
 |:---:|:---:|:---:|
-| ![comparison](results/visualisations/Model comparison.png) | ![roc](results/visualisations/roc Curve.png) | ![importance](results/visualisations/Feature importance.png) |
+| ![comparison](results/visualisations/Model_comparison.png) | ![roc](results/visualisations/Roc_Curve.png) | ![importance](results/visualisations/Feature_importance.png) |
 
 ---
 
