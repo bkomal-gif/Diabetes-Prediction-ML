@@ -205,8 +205,6 @@ CURATED_FEATURES   = ['Insulin', 'Age', 'Glucose', 'BMI', 'BP', 'Pregnancies']
 
 ## 🖼️ Sample Results
 
-> *(Plots will be added here)*
-
 | Model Comparison | ROC Curves | Feature Importance |
 |:---:|:---:|:---:|
 | ![comparison](results/visualisations/Model_comparison.png) | ![roc](results/visualisations/ROC_Curve.png) | ![importance](results/visualisations/Feature_importance.png) |
