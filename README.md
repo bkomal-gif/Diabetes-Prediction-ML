@@ -209,7 +209,7 @@ CURATED_FEATURES   = ['Insulin', 'Age', 'Glucose', 'BMI', 'BP', 'Pregnancies']
 
 | Model Comparison | ROC Curves | Feature Importance |
 |:---:|:---:|:---:|
-| ![comparison](results/Model comparison.png) | ![roc](results/roc Curve.png) | ![importance](results/Feature importance.png) |
+| ![comparison](results/visualisations/Model comparison.png) | ![roc](results/visualisations/roc Curve.png) | ![importance](results/visualisations/Feature importance.png) |
 
 ---
 
