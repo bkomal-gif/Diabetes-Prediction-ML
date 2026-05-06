@@ -183,7 +183,7 @@ Key dependencies:
 
 Open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14g2fFDt5sLTEcg1jHdVxFgESLXD-PVLd)
 
 Or clone and run locally:
 
@@ -218,13 +218,7 @@ CURATED_FEATURES   = ['Insulin', 'Age', 'Glucose', 'BMI', 'BP', 'Pregnancies']
 
 Capstone Project 1 by **Team 10**, Executive Programme for AI in Healthcare, IIT Delhi
 
-Alfred Thomas · Heidrun Zeug · Kiran Kamble · **Komal** · Muneesh Kapoor · Nitika Jesingh · Saptarshi Paul Choudhury · Shivani Sheth · Shuvadeep Ganguly · Sumit Talwar
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+Alfred Thomas · Heidrun Zeug · Kiran Kamble · **Baby Komal** · Muneesh Kapoor · Nitika Jesingh · Saptarshi Paul Choudhury · Shivani Sheth · Shuvadeep Ganguly · Sumit Talwar
 
 ---
 
